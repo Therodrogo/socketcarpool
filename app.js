@@ -71,6 +71,9 @@ io.on('connection', (socket) => {
     console.log("Mensaje Recibido:", data)
   });
 
+
+  
+
 });
 
 //Puerto de socket
